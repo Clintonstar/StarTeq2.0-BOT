@@ -1,2 +1,7 @@
-# StarTeq2.0-BOT
-The best bot
+{
+  "antilink": [],
+  "autoreact": false,
+  "autoread": false,
+  "autotyping": false,
+  "mode": "public"
+}
